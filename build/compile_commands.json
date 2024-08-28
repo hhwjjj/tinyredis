@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/avl.cpp.o -c /home/ubuntu/hwj/tinyredis/avl.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/avl.cpp"
+},
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/hashtable.cpp.o -c /home/ubuntu/hwj/tinyredis/hashtable.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/hashtable.cpp"
+},
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/heap.cpp.o -c /home/ubuntu/hwj/tinyredis/heap.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/heap.cpp"
+},
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/server.cpp.o -c /home/ubuntu/hwj/tinyredis/server.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/server.cpp"
+},
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/thread_pool.cpp.o -c /home/ubuntu/hwj/tinyredis/thread_pool.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/thread_pool.cpp"
+},
+{
+  "directory": "/home/ubuntu/hwj/tinyredis/build",
+  "command": "/usr/bin/c++    -g -std=c++11 -g -o CMakeFiles/test.dir/zset.cpp.o -c /home/ubuntu/hwj/tinyredis/zset.cpp",
+  "file": "/home/ubuntu/hwj/tinyredis/zset.cpp"
+}
+]
